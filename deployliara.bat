@@ -1,0 +1,1 @@
+carsproject>liara deploy --platform=django --app=carsproject
